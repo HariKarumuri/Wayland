@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "wayland-client.h": "c",
+    "wayland-client-core.h": "c",
+    "wayland-client-protocol.h": "c"
+  }
+}

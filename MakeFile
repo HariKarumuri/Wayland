@@ -1,0 +1,6 @@
+
+CFLAGS = -I/usr/include
+LIBS = -lwayland-client
+
+starter: 
+	cc  -o starter starter.c $(LIBS) $(CFLAGS)
